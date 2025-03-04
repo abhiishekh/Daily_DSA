@@ -1,3 +1,9 @@
+// Question reference: https://leetcode.com/problems/two-sum/
+// Time complexity: O(n^2)
+// Space complexity: O(1)
+// This is a brute force solution. We can optimize this solution by using a hashmap.
+
+
 #include <iostream>
 #include <vector>
 
